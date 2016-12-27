@@ -3,7 +3,7 @@
 | Week start | Week end | Daily Commitment | Course | Primary Content |
 | ---------- | -------  | ---------------- | ------ | --------------- |
 | week 1 | - | 10 mins | What is Machine Learning, Data Science? | [Welcome to Machine Learning section](https://www.udacity.com/course/intro-to-machine-learning--ud120) |
-| week 1 | week 6 | 30 mins | Programming Foundations with Python | [course](https://www.udacity.com/course/programming-foundations-with-python--ud036) |
+| week 1 | week 6 | 30 mins | Programming Foundations with Python | [course](https://www.udacity.com/course/programming-foundations-with-python--ud036), [material](http://introtopython.org/) |
 | week 3 | week 12 | 30 mins | Intro to Computer Science | [course](https://www.udacity.com/course/intro-to-computer-science--cs101) |
 | week 13 | week 18 | 15 mins | Linear Algebra | [course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) |
 | week 13 | week 15 | 45 mins | Intro to Descriptive Statistics | [course](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827), [videos](https://www.youtube.com/watch?v=h8EYEJ32oQ8&list=PLU5aQXLWR3_yYS0ZYRA-5g5YSSYLNZ6Mc) |
