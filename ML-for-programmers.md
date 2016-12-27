@@ -1,8 +1,8 @@
-### Machine learning for Beginners
+### Machine learning for Programmers
 
 | Week start | Week end | Daily Commitment | Course | Primary Content |
 | ---------- | -------  | ---------------- | ------ | --------------- |
-| week 1 | week 2 | 30 mins | What is Machine Learning, Data Science? | [Welcome to Machine Learning section](https://www.udacity.com/course/intro-to-machine-learning--ud120) |
+| week 1 | - | 30 mins | What is Machine Learning, Data Science? | [Welcome to Machine Learning section](https://www.udacity.com/course/intro-to-machine-learning--ud120) |
 | week 1 | week 6 | 30 mins | Programming Foundations with Python | [course](https://www.udacity.com/course/programming-foundations-with-python--ud036) |
 | week 3 | week 12 | 30 mins | Intro to Computer Science | [course](https://www.udacity.com/course/intro-to-computer-science--cs101) |
 | week 13 | week 18 | 15 mins | Linear Algebra | [course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) |
