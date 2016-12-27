@@ -1,5 +1,5 @@
 ## Courses
-Courses are subjects to a ### Learning Path
+Courses are subjects to a <b>Learning Path</b>
 
 ### Beginner courses
 - Introduction to python (material)
