@@ -39,5 +39,5 @@ Learning path are the actual <b>Matrix Degree</b> program
 | week 19 | week 36 | 1 Hour | Machine Learning | [course](https://www.coursera.org/learn/machine-learning) |
 | week 37 | week 48 | 30 mins | Introduction to Machine Learning | [course](https://www.udacity.com/course/intro-to-machine-learning--ud120) |
 | week 37 | week 48 | 30 mins | Introduction to Data Science | [course](https://www.udacity.com/course/intro-to-data-science--ud359) |
-| week 49 | week 54 | 30 mins | Kaggle.com projects | [practical](kaggle.com) |
+| week 49 | week 54 | 30 mins | Kaggle.com projects | [practical](https://kaggle.com) |
 | week 49 | week 54 | 30 mins | Learning SKLearn | [Documentation](http://scikit-learn.org/stable/documentation.html) |
