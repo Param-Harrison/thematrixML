@@ -1,5 +1,5 @@
 ## Courses
-Different courses will be combined to create a learning path
+Courses are more of a subjects to a *Learning Path*
 
 ### Beginner courses
 - Introduction to python (material)
