@@ -16,3 +16,19 @@ Courses are subjects to a <b>Learning Path</b>
 ### Advanced courses
 - Machine Learning (coursera)
 - Deep Learning (udacity)
+
+## Free resources
+- Udacity
+- Coursera (Machine Learning by Andrew Ng)
+- Khan Academy (Youtube Videos)
+
+## Learning path
+Learning path are the actual <b>Matrix Degree</b> program
+
+### Machine learning for Beginners
+
+| Weeks duration | Daily Commitment | Course | Primary Content | Parallel Course |
+|: ------------- :|:-------------:|: ----- |:-|:-|
+| col 3 is      | right-aligned | $1600 | | |
+| col 2 is      | centered      |   $12 | | |
+| zebra stripes | are neat      |    $1 | | |
