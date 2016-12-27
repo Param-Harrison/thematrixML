@@ -28,6 +28,6 @@ Learning path are the actual <b>Matrix Degree</b> program
 ### Machine learning for Beginners
 
 | Weeks duration | Daily Commitment | Course | Primary Content | Parallel Course |
-| ------------ | ---------------- | ----- | -------------- | -------------- |
+|: ------------ :| ---------------- | ----- | -------------- | -------------- |
 | col 3 is       | right-aligned    | $1600  |      some       |     some        |
 
