@@ -29,7 +29,7 @@ Learning path are the actual <b>Matrix Degree</b> program
 ### Machine learning for Beginners
 
 | Week start | Week end | Daily Commitment | Course | Primary Content |
-| ------------ | ---------------- | ----- | -------------- |
+| ---------- | -------  | ---------------- | ------ | --------------- |
 | week 1 | week 2 | 30 mins | What is Machine Learning, Data Science? | [Welcome to Machine Learning section](https://www.udacity.com/course/intro-to-machine-learning--ud120) |
 | week 1 | week 6 | 30 mins | Programming Foundations with Python | [course](https://www.udacity.com/course/programming-foundations-with-python--ud036) |
 | week 3 | week 12 | 30 mins | Intro to Computer Science | [course](https://www.udacity.com/course/intro-to-computer-science--cs101) |
