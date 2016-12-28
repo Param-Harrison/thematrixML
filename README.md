@@ -1,4 +1,4 @@
-## Courses
+# Courses
 Courses are subjects to a <b>Learning Path</b>
 
 ### Beginner courses
@@ -18,10 +18,17 @@ Courses are subjects to a <b>Learning Path</b>
 - Reinforcement Learning
 - Deep Learning (udacity)
 
-## Free resources
+# Free resources
 - Udacity
 - Coursera (Machine Learning by Andrew Ng)
 - Khan Academy (Youtube Videos)
 
-## Learning path
+# Learning path
 Learning path are the actual <b>Matrix Degree</b> program
+
+### Beginners Plan
+- [ML for Beginners](https://github.com/Param-Harrison/thematrixML/blob/master/ML-for-beginners.md)
+### Intermediate Plan
+- [ML for Programmers](https://github.com/Param-Harrison/thematrixML/blob/master/ML-for-programmers.md)
+### Advanced Plan
+- [ML for Developers](https://github.com/Param-Harrison/thematrixML/blob/master/ML-for-developers.md)
