@@ -35,7 +35,7 @@ Anyone who is really interested to become a <b>data scientist</b> or <b>machine 
   - Mobile development
   - UI/UX designer
 
-### Were can we get free curriculum / study plan for other technologies like mobile development etc.?
+### Where can we get free curriculum / study plan for other technologies like mobile development etc.?
 - We are working on it. Will update very soon :pray:
 
 # Hardware Requirement
