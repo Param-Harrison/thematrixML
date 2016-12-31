@@ -66,4 +66,4 @@ Courses are subjects to a <b>Learning Path</b>
 - Udacity
 - Coursera (Machine Learning by Andrew Ng)
 - Khan Academy (Youtube Videos)
-- Data camp free resources [link](https://www.datacamp.com/community/open-courses/introduction-to-python-machine-learning-with-analytics-vidhya-hackathons)
+- Data camp free resources - [link](https://www.datacamp.com/community/open-courses/introduction-to-python-machine-learning-with-analytics-vidhya-hackathons)
