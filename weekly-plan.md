@@ -5,9 +5,9 @@
 - People who want to speed up can always speed up and finish chapters on their speed but the weekly discussion will be only based on this plan
 
 ### Sessions
-- Wednesday (11PM - 12PM IST)
+- <b>Wednesday</b> (11PM - 12PM IST)
   - Discuss about the progress for that week
-- Saturday (10.30PM - 12PM IST)
+- <b>Saturday</b> (10.30PM - 12PM IST)
   - Discuss about the problems faced & Knowledge sharing
 
 ## Week 1 (Jan 08 - Jan 14)
