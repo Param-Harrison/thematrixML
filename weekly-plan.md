@@ -1,5 +1,6 @@
 # Weekly plans
- - This document will give an Idea about the weekly plans ahead
+- This document will give an Idea about the weekly plans ahead
+
 ##### Note
 - People who want to speed up can always speed up and finish chapters on their speed but the weekly discussion will be only based on this plan
 
