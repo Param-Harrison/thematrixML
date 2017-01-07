@@ -14,7 +14,7 @@
 
 #### Machine learning
 - Enroll in this [course](https://www.coursera.org/learn/machine-learning)
-- Check videos for Week 1 
+- Check videos for Week 1 in the course 
 - Finish Chapters - Welcome, Introduction and Linear Algebra Review
 - Finish all the Quizes and Lecture slides related to these mentioned chapters
 
